@@ -1,0 +1,528 @@
+Error!Linha->133818204	Odete Pinto Arouca Mateus Ferraz	21-07-1996	0302FE Localidade não existentes->0302FE
+Error!Linha->169906612	Dolores Matos Amado Almada	06-05-1998	0302FC Localidade não existentes->0302FC
+Error!Linha->194514691	Leonor Proenca Pacheco Barbosa Coelho	19-02-1970	0302FD Localidade não existentes->0302FD
+Error!Linha->671118394	Hugo Soeiro Pacheco Nascimento Lopes	19-02-1978	0302FA Localidade não existentes->0302FA
+Error!Linha->956810975	Maria Amorim Barbosa Pacheco Matos	10-05-1994	0302FH Localidade não existentes->0302FH
+Error!Linha->833172196	Leonor Soeiro Barros Amado	28-06-1969	0302FE Localidade não existentes->0302FE
+Error!Linha->516923996	Bernardo Dias Rego Ramalho	26-04-2000	0302FG Localidade não existentes->0302FG
+Error!Linha->424105059	Luis Mora Amado Andrade Brito	1979-05-15	100933 Data->Dia superior a 31
+Error!Linha->267677870	Odete Mateus Bogas Arantes Carvalheira	26-02-1954	0302FH Localidade não existentes->0302FH
+Error!Linha->101356475	Dulce Estrela Cunha Brito	10-04-1994	050613 Id->Não é divisivel por 10
+Error!Linha->550847984	Bruno Amorim Proenca Castanheira Seixas	17-04-1961	0302FF Localidade não existentes->0302FF
+Error!Linha->386529746	Bernardo Arantes Leal Brito	29-02-1958	050903 Data->Dia superior a 28(ano não bissexto)
+Error!Linha->571480898	Joana Tinoco Rosado Pinto Vivas	03-12-1951	13111 Localidade não existentes->13111
+Error!Linha->718859976	Lucas Carvalheira Pinto Belchior Almeida	09-07-1971	0302FE Localidade não existentes->0302FE
+Error!Linha->200518086	Joana Amado Amora Macedo	17-04-1999	0302FG Localidade não existentes->0302FG
+Error!Linha->40362393	Dolores Eanes Ferraz Antunes	28-02-1952	180804 Id->Não tem 9 digitos
+Error!Linha->167138248	Carmo Domingos Vivas Cipriano Silva	23/11/2001	141818 Data->Erro nas ////
+Error!Linha->676976685	Odete Dias Brito Cabral Barbosa	15-11-1962	0302FF Localidade não existentes->0302FF
+Error!Linha->545326618	Vitor Mota Brito Coelho	07-07-1950	0302FE Localidade não existentes->0302FE
+Error!Linha->204931399	Cristiano Quadros Carrico Aguiar Carvalheira	01-07-1991	0302FB Localidade não existentes->0302FB
+Error!Linha->349266785	Duarte Bogas Real Dinis Regueira	19-04-1969	0302FA Localidade não existentes->0302FA
+Error!Linha->465970883	Clotilde Eanes Soeiro Arouca	26-12-1991	081803 Localidade não existente->081803
+Error!Linha->639494843	Ana Carreira Real Amorim Baptista	26-02-1951	0302FF Localidade não existentes->0302FF
+Error!Linha->959078156	Carla Clementino Almeida Castanheira Ferreira	06-01-1987	0302FF Localidade não existentes->0302FF
+Error!Linha->336595568	Eduarda Regueira Ramalho Bogas	14-12-2001	0302FC Localidade não existentes->0302FC
+Error!Linha->041736423	Clarice Real Eanes Lopes Antunes	13-05-1995	0302FE Localidade não existentes->0302FE
+Error!Linha->210382545	Basilio Pinheiro Mota Azeredo	06-06-1969	0302FD Localidade não existentes->0302FD
+Error!Linha->707657530	Leonor Antunes Fonseca Leal Nogueira	24-03-1996	0302FB Localidade não existentes->0302FB
+Error!Linha->462278579	Bruna Dias Valbom Belchior Brito	04-set-1959	150506 Data->Erro nas ////
+Error!Linha->758077268	Bernardo Martins Antunes Nogueira	31-07-1996	0302FA Localidade não existentes->0302FA
+Error!Linha->309341442	Carlota Ferraz Macedo Bacelar Carvalheira	31-04-2001	031249 Data->Dia superior a 30
+Error!Linha->133818204	Odete Pinto Arouca Mateus Ferraz	21-07-1996	0302FE Localidade não existentes->0302FE
+Error!Linha->169906612	Dolores Matos Amado Almada	06-05-1998	0302FC Localidade não existentes->0302FC
+Error!Linha->194514691	Leonor Proenca Pacheco Barbosa Coelho	19-02-1970	0302FD Localidade não existentes->0302FD
+Error!Linha->671118394	Hugo Soeiro Pacheco Nascimento Lopes	19-02-1978	0302FA Localidade não existentes->0302FA
+Error!Linha->956810975	Maria Amorim Barbosa Pacheco Matos	10-05-1994	0302FH Localidade não existentes->0302FH
+Error!Linha->833172196	Leonor Soeiro Barros Amado	28-06-1969	0302FE Localidade não existentes->0302FE
+Error!Linha->516923996	Bernardo Dias Rego Ramalho	26-04-2000	0302FG Localidade não existentes->0302FG
+Error!Linha->424105059	Luis Mora Amado Andrade Brito	1979-05-15	100933 Data->Dia superior a 31
+Error!Linha->267677870	Odete Mateus Bogas Arantes Carvalheira	26-02-1954	0302FH Localidade não existentes->0302FH
+Error!Linha->101356475	Dulce Estrela Cunha Brito	10-04-1994	050613 Id->Não é divisivel por 10
+Error!Linha->550847984	Bruno Amorim Proenca Castanheira Seixas	17-04-1961	0302FF Localidade não existentes->0302FF
+Error!Linha->386529746	Bernardo Arantes Leal Brito	29-02-1958	050903 Data->Dia superior a 28(ano não bissexto)
+Error!Linha->571480898	Joana Tinoco Rosado Pinto Vivas	03-12-1951	13111 Localidade não existentes->13111
+Error!Linha->718859976	Lucas Carvalheira Pinto Belchior Almeida	09-07-1971	0302FE Localidade não existentes->0302FE
+Error!Linha->200518086	Joana Amado Amora Macedo	17-04-1999	0302FG Localidade não existentes->0302FG
+Error!Linha->40362393	Dolores Eanes Ferraz Antunes	28-02-1952	180804 Id->Não tem 9 digitos
+Error!Linha->167138248	Carmo Domingos Vivas Cipriano Silva	23/11/2001	141818 Data->Erro nas ////
+Error!Linha->676976685	Odete Dias Brito Cabral Barbosa	15-11-1962	0302FF Localidade não existentes->0302FF
+Error!Linha->545326618	Vitor Mota Brito Coelho	07-07-1950	0302FE Localidade não existentes->0302FE
+Error!Linha->204931399	Cristiano Quadros Carrico Aguiar Carvalheira	01-07-1991	0302FB Localidade não existentes->0302FB
+Error!Linha->349266785	Duarte Bogas Real Dinis Regueira	19-04-1969	0302FA Localidade não existentes->0302FA
+Error!Linha->465970883	Clotilde Eanes Soeiro Arouca	26-12-1991	081803 Localidade não existente->081803
+Error!Linha->639494843	Ana Carreira Real Amorim Baptista	26-02-1951	0302FF Localidade não existentes->0302FF
+Error!Linha->959078156	Carla Clementino Almeida Castanheira Ferreira	06-01-1987	0302FF Localidade não existentes->0302FF
+Error!Linha->336595568	Eduarda Regueira Ramalho Bogas	14-12-2001	0302FC Localidade não existentes->0302FC
+Error!Linha->041736423	Clarice Real Eanes Lopes Antunes	13-05-1995	0302FE Localidade não existentes->0302FE
+Error!Linha->210382545	Basilio Pinheiro Mota Azeredo	06-06-1969	0302FD Localidade não existentes->0302FD
+Error!Linha->707657530	Leonor Antunes Fonseca Leal Nogueira	24-03-1996	0302FB Localidade não existentes->0302FB
+Error!Linha->462278579	Bruna Dias Valbom Belchior Brito	04-set-1959	150506 Data->Erro nas ////
+Error!Linha->758077268	Bernardo Martins Antunes Nogueira	31-07-1996	0302FA Localidade não existentes->0302FA
+Error!Linha->309341442	Carlota Ferraz Macedo Bacelar Carvalheira	31-04-2001	031249 Data->Dia superior a 30
+Error!Linha->133818204	Odete Pinto Arouca Mateus Ferraz	21-07-1996	0302FE Localidade não existentes->0302FE
+Error!Linha->169906612	Dolores Matos Amado Almada	06-05-1998	0302FC Localidade não existentes->0302FC
+Error!Linha->194514691	Leonor Proenca Pacheco Barbosa Coelho	19-02-1970	0302FD Localidade não existentes->0302FD
+Error!Linha->671118394	Hugo Soeiro Pacheco Nascimento Lopes	19-02-1978	0302FA Localidade não existentes->0302FA
+Error!Linha->956810975	Maria Amorim Barbosa Pacheco Matos	10-05-1994	0302FH Localidade não existentes->0302FH
+Error!Linha->833172196	Leonor Soeiro Barros Amado	28-06-1969	0302FE Localidade não existentes->0302FE
+Error!Linha->516923996	Bernardo Dias Rego Ramalho	26-04-2000	0302FG Localidade não existentes->0302FG
+Error!Linha->424105059	Luis Mora Amado Andrade Brito	1979-05-15	100933 Data->Dia superior a 31
+Error!Linha->267677870	Odete Mateus Bogas Arantes Carvalheira	26-02-1954	0302FH Localidade não existentes->0302FH
+Error!Linha->101356475	Dulce Estrela Cunha Brito	10-04-1994	050613 Id->Não é divisivel por 10
+Error!Linha->550847984	Bruno Amorim Proenca Castanheira Seixas	17-04-1961	0302FF Localidade não existentes->0302FF
+Error!Linha->386529746	Bernardo Arantes Leal Brito	29-02-1958	050903 Data->Dia superior a 28(ano não bissexto)
+Error!Linha->571480898	Joana Tinoco Rosado Pinto Vivas	03-12-1951	13111 Localidade não existentes->13111
+Error!Linha->718859976	Lucas Carvalheira Pinto Belchior Almeida	09-07-1971	0302FE Localidade não existentes->0302FE
+Error!Linha->200518086	Joana Amado Amora Macedo	17-04-1999	0302FG Localidade não existentes->0302FG
+Error!Linha->40362393	Dolores Eanes Ferraz Antunes	28-02-1952	180804 Id->Não tem 9 digitos
+Error!Linha->167138248	Carmo Domingos Vivas Cipriano Silva	23/11/2001	141818 Data->Erro nas ////
+Error!Linha->676976685	Odete Dias Brito Cabral Barbosa	15-11-1962	0302FF Localidade não existentes->0302FF
+Error!Linha->545326618	Vitor Mota Brito Coelho	07-07-1950	0302FE Localidade não existentes->0302FE
+Error!Linha->204931399	Cristiano Quadros Carrico Aguiar Carvalheira	01-07-1991	0302FB Localidade não existentes->0302FB
+Error!Linha->349266785	Duarte Bogas Real Dinis Regueira	19-04-1969	0302FA Localidade não existentes->0302FA
+Error!Linha->465970883	Clotilde Eanes Soeiro Arouca	26-12-1991	081803 Localidade não existente->081803
+Error!Linha->639494843	Ana Carreira Real Amorim Baptista	26-02-1951	0302FF Localidade não existentes->0302FF
+Error!Linha->959078156	Carla Clementino Almeida Castanheira Ferreira	06-01-1987	0302FF Localidade não existentes->0302FF
+Error!Linha->336595568	Eduarda Regueira Ramalho Bogas	14-12-2001	0302FC Localidade não existentes->0302FC
+Error!Linha->041736423	Clarice Real Eanes Lopes Antunes	13-05-1995	0302FE Localidade não existentes->0302FE
+Error!Linha->210382545	Basilio Pinheiro Mota Azeredo	06-06-1969	0302FD Localidade não existentes->0302FD
+Error!Linha->707657530	Leonor Antunes Fonseca Leal Nogueira	24-03-1996	0302FB Localidade não existentes->0302FB
+Error!Linha->462278579	Bruna Dias Valbom Belchior Brito	04-set-1959	150506 Data->Erro nas ////
+Error!Linha->758077268	Bernardo Martins Antunes Nogueira	31-07-1996	0302FA Localidade não existentes->0302FA
+Error!Linha->309341442	Carlota Ferraz Macedo Bacelar Carvalheira	31-04-2001	031249 Data->Dia superior a 30
+Error!Linha->133818204	Odete Pinto Arouca Mateus Ferraz	21-07-1996	0302FE Localidade não existentes->0302FE
+Error!Linha->169906612	Dolores Matos Amado Almada	06-05-1998	0302FC Localidade não existentes->0302FC
+Error!Linha->194514691	Leonor Proenca Pacheco Barbosa Coelho	19-02-1970	0302FD Localidade não existentes->0302FD
+Error!Linha->671118394	Hugo Soeiro Pacheco Nascimento Lopes	19-02-1978	0302FA Localidade não existentes->0302FA
+Error!Linha->956810975	Maria Amorim Barbosa Pacheco Matos	10-05-1994	0302FH Localidade não existentes->0302FH
+Error!Linha->833172196	Leonor Soeiro Barros Amado	28-06-1969	0302FE Localidade não existentes->0302FE
+Error!Linha->516923996	Bernardo Dias Rego Ramalho	26-04-2000	0302FG Localidade não existentes->0302FG
+Error!Linha->424105059	Luis Mora Amado Andrade Brito	1979-05-15	100933 Data->Dia superior a 31
+Error!Linha->267677870	Odete Mateus Bogas Arantes Carvalheira	26-02-1954	0302FH Localidade não existentes->0302FH
+Error!Linha->101356475	Dulce Estrela Cunha Brito	10-04-1994	050613 Id->Não é divisivel por 10
+Error!Linha->550847984	Bruno Amorim Proenca Castanheira Seixas	17-04-1961	0302FF Localidade não existentes->0302FF
+Error!Linha->386529746	Bernardo Arantes Leal Brito	29-02-1958	050903 Data->Dia superior a 28(ano não bissexto)
+Error!Linha->571480898	Joana Tinoco Rosado Pinto Vivas	03-12-1951	13111 Localidade não existentes->13111
+Error!Linha->718859976	Lucas Carvalheira Pinto Belchior Almeida	09-07-1971	0302FE Localidade não existentes->0302FE
+Error!Linha->200518086	Joana Amado Amora Macedo	17-04-1999	0302FG Localidade não existentes->0302FG
+Error!Linha->40362393	Dolores Eanes Ferraz Antunes	28-02-1952	180804 Id->Não tem 9 digitos
+Error!Linha->167138248	Carmo Domingos Vivas Cipriano Silva	23/11/2001	141818 Data->Erro nas ////
+Error!Linha->676976685	Odete Dias Brito Cabral Barbosa	15-11-1962	0302FF Localidade não existentes->0302FF
+Error!Linha->545326618	Vitor Mota Brito Coelho	07-07-1950	0302FE Localidade não existentes->0302FE
+Error!Linha->204931399	Cristiano Quadros Carrico Aguiar Carvalheira	01-07-1991	0302FB Localidade não existentes->0302FB
+Error!Linha->349266785	Duarte Bogas Real Dinis Regueira	19-04-1969	0302FA Localidade não existentes->0302FA
+Error!Linha->465970883	Clotilde Eanes Soeiro Arouca	26-12-1991	081803 Localidade não existente->081803
+Error!Linha->639494843	Ana Carreira Real Amorim Baptista	26-02-1951	0302FF Localidade não existentes->0302FF
+Error!Linha->959078156	Carla Clementino Almeida Castanheira Ferreira	06-01-1987	0302FF Localidade não existentes->0302FF
+Error!Linha->336595568	Eduarda Regueira Ramalho Bogas	14-12-2001	0302FC Localidade não existentes->0302FC
+Error!Linha->041736423	Clarice Real Eanes Lopes Antunes	13-05-1995	0302FE Localidade não existentes->0302FE
+Error!Linha->210382545	Basilio Pinheiro Mota Azeredo	06-06-1969	0302FD Localidade não existentes->0302FD
+Error!Linha->707657530	Leonor Antunes Fonseca Leal Nogueira	24-03-1996	0302FB Localidade não existentes->0302FB
+Error!Linha->462278579	Bruna Dias Valbom Belchior Brito	04-set-1959	150506 Data->Erro nas ////
+Error!Linha->758077268	Bernardo Martins Antunes Nogueira	31-07-1996	0302FA Localidade não existentes->0302FA
+Error!Linha->309341442	Carlota Ferraz Macedo Bacelar Carvalheira	31-04-2001	031249 Data->Dia superior a 30
+Error!Linha->133818204	Odete Pinto Arouca Mateus Ferraz	21-07-1996	0302FE Localidade não existentes->0302FE
+Error!Linha->169906612	Dolores Matos Amado Almada	06-05-1998	0302FC Localidade não existentes->0302FC
+Error!Linha->194514691	Leonor Proenca Pacheco Barbosa Coelho	19-02-1970	0302FD Localidade não existentes->0302FD
+Error!Linha->671118394	Hugo Soeiro Pacheco Nascimento Lopes	19-02-1978	0302FA Localidade não existentes->0302FA
+Error!Linha->956810975	Maria Amorim Barbosa Pacheco Matos	10-05-1994	0302FH Localidade não existentes->0302FH
+Error!Linha->833172196	Leonor Soeiro Barros Amado	28-06-1969	0302FE Localidade não existentes->0302FE
+Error!Linha->516923996	Bernardo Dias Rego Ramalho	26-04-2000	0302FG Localidade não existentes->0302FG
+Error!Linha->424105059	Luis Mora Amado Andrade Brito	1979-05-15	100933 Data->Dia superior a 31
+Error!Linha->267677870	Odete Mateus Bogas Arantes Carvalheira	26-02-1954	0302FH Localidade não existentes->0302FH
+Error!Linha->101356475	Dulce Estrela Cunha Brito	10-04-1994	050613 Id->Não é divisivel por 10
+Error!Linha->550847984	Bruno Amorim Proenca Castanheira Seixas	17-04-1961	0302FF Localidade não existentes->0302FF
+Error!Linha->386529746	Bernardo Arantes Leal Brito	29-02-1958	050903 Data->Dia superior a 28(ano não bissexto)
+Error!Linha->571480898	Joana Tinoco Rosado Pinto Vivas	03-12-1951	13111 Localidade não existentes->13111
+Error!Linha->718859976	Lucas Carvalheira Pinto Belchior Almeida	09-07-1971	0302FE Localidade não existentes->0302FE
+Error!Linha->200518086	Joana Amado Amora Macedo	17-04-1999	0302FG Localidade não existentes->0302FG
+Error!Linha->40362393	Dolores Eanes Ferraz Antunes	28-02-1952	180804 Id->Não tem 9 digitos
+Error!Linha->167138248	Carmo Domingos Vivas Cipriano Silva	23/11/2001	141818 Data->Erro nas ////
+Error!Linha->676976685	Odete Dias Brito Cabral Barbosa	15-11-1962	0302FF Localidade não existentes->0302FF
+Error!Linha->545326618	Vitor Mota Brito Coelho	07-07-1950	0302FE Localidade não existentes->0302FE
+Error!Linha->204931399	Cristiano Quadros Carrico Aguiar Carvalheira	01-07-1991	0302FB Localidade não existentes->0302FB
+Error!Linha->349266785	Duarte Bogas Real Dinis Regueira	19-04-1969	0302FA Localidade não existentes->0302FA
+Error!Linha->465970883	Clotilde Eanes Soeiro Arouca	26-12-1991	081803 Localidade não existente->081803
+Error!Linha->639494843	Ana Carreira Real Amorim Baptista	26-02-1951	0302FF Localidade não existentes->0302FF
+Error!Linha->959078156	Carla Clementino Almeida Castanheira Ferreira	06-01-1987	0302FF Localidade não existentes->0302FF
+Error!Linha->336595568	Eduarda Regueira Ramalho Bogas	14-12-2001	0302FC Localidade não existentes->0302FC
+Error!Linha->041736423	Clarice Real Eanes Lopes Antunes	13-05-1995	0302FE Localidade não existentes->0302FE
+Error!Linha->210382545	Basilio Pinheiro Mota Azeredo	06-06-1969	0302FD Localidade não existentes->0302FD
+Error!Linha->707657530	Leonor Antunes Fonseca Leal Nogueira	24-03-1996	0302FB Localidade não existentes->0302FB
+Error!Linha->462278579	Bruna Dias Valbom Belchior Brito	04-set-1959	150506 Data->Erro nas ////
+Error!Linha->758077268	Bernardo Martins Antunes Nogueira	31-07-1996	0302FA Localidade não existentes->0302FA
+Error!Linha->309341442	Carlota Ferraz Macedo Bacelar Carvalheira	31-04-2001	031249 Data->Dia superior a 30
+Error!Linha->133818204	Odete Pinto Arouca Mateus Ferraz	21-07-1996	0302FE Localidade não existentes->0302FE
+Error!Linha->169906612	Dolores Matos Amado Almada	06-05-1998	0302FC Localidade não existentes->0302FC
+Error!Linha->194514691	Leonor Proenca Pacheco Barbosa Coelho	19-02-1970	0302FD Localidade não existentes->0302FD
+Error!Linha->671118394	Hugo Soeiro Pacheco Nascimento Lopes	19-02-1978	0302FA Localidade não existentes->0302FA
+Error!Linha->956810975	Maria Amorim Barbosa Pacheco Matos	10-05-1994	0302FH Localidade não existentes->0302FH
+Error!Linha->833172196	Leonor Soeiro Barros Amado	28-06-1969	0302FE Localidade não existentes->0302FE
+Error!Linha->516923996	Bernardo Dias Rego Ramalho	26-04-2000	0302FG Localidade não existentes->0302FG
+Error!Linha->424105059	Luis Mora Amado Andrade Brito	1979-05-15	100933 Data->Dia superior a 31
+Error!Linha->267677870	Odete Mateus Bogas Arantes Carvalheira	26-02-1954	0302FH Localidade não existentes->0302FH
+Error!Linha->101356475	Dulce Estrela Cunha Brito	10-04-1994	050613 Id->Não é divisivel por 10
+Error!Linha->550847984	Bruno Amorim Proenca Castanheira Seixas	17-04-1961	0302FF Localidade não existentes->0302FF
+Error!Linha->386529746	Bernardo Arantes Leal Brito	29-02-1958	050903 Data->Dia superior a 28(ano não bissexto)
+Error!Linha->571480898	Joana Tinoco Rosado Pinto Vivas	03-12-1951	13111 Localidade não existentes->13111
+Error!Linha->718859976	Lucas Carvalheira Pinto Belchior Almeida	09-07-1971	0302FE Localidade não existentes->0302FE
+Error!Linha->200518086	Joana Amado Amora Macedo	17-04-1999	0302FG Localidade não existentes->0302FG
+Error!Linha->40362393	Dolores Eanes Ferraz Antunes	28-02-1952	180804 Id->Não tem 9 digitos
+Error!Linha->167138248	Carmo Domingos Vivas Cipriano Silva	23/11/2001	141818 Data->Erro nas ////
+Error!Linha->676976685	Odete Dias Brito Cabral Barbosa	15-11-1962	0302FF Localidade não existentes->0302FF
+Error!Linha->545326618	Vitor Mota Brito Coelho	07-07-1950	0302FE Localidade não existentes->0302FE
+Error!Linha->204931399	Cristiano Quadros Carrico Aguiar Carvalheira	01-07-1991	0302FB Localidade não existentes->0302FB
+Error!Linha->349266785	Duarte Bogas Real Dinis Regueira	19-04-1969	0302FA Localidade não existentes->0302FA
+Error!Linha->465970883	Clotilde Eanes Soeiro Arouca	26-12-1991	081803 Localidade não existente->081803
+Error!Linha->639494843	Ana Carreira Real Amorim Baptista	26-02-1951	0302FF Localidade não existentes->0302FF
+Error!Linha->959078156	Carla Clementino Almeida Castanheira Ferreira	06-01-1987	0302FF Localidade não existentes->0302FF
+Error!Linha->336595568	Eduarda Regueira Ramalho Bogas	14-12-2001	0302FC Localidade não existentes->0302FC
+Error!Linha->041736423	Clarice Real Eanes Lopes Antunes	13-05-1995	0302FE Localidade não existentes->0302FE
+Error!Linha->210382545	Basilio Pinheiro Mota Azeredo	06-06-1969	0302FD Localidade não existentes->0302FD
+Error!Linha->707657530	Leonor Antunes Fonseca Leal Nogueira	24-03-1996	0302FB Localidade não existentes->0302FB
+Error!Linha->462278579	Bruna Dias Valbom Belchior Brito	04-set-1959	150506 Data->Erro nas ////
+Error!Linha->758077268	Bernardo Martins Antunes Nogueira	31-07-1996	0302FA Localidade não existentes->0302FA
+Error!Linha->309341442	Carlota Ferraz Macedo Bacelar Carvalheira	31-04-2001	031249 Data->Dia superior a 30
+Error!Linha->133818204	Odete Pinto Arouca Mateus Ferraz	21-07-1996	0302FE Localidade não existentes->0302FE
+Error!Linha->169906612	Dolores Matos Amado Almada	06-05-1998	0302FC Localidade não existentes->0302FC
+Error!Linha->194514691	Leonor Proenca Pacheco Barbosa Coelho	19-02-1970	0302FD Localidade não existentes->0302FD
+Error!Linha->671118394	Hugo Soeiro Pacheco Nascimento Lopes	19-02-1978	0302FA Localidade não existentes->0302FA
+Error!Linha->956810975	Maria Amorim Barbosa Pacheco Matos	10-05-1994	0302FH Localidade não existentes->0302FH
+Error!Linha->833172196	Leonor Soeiro Barros Amado	28-06-1969	0302FE Localidade não existentes->0302FE
+Error!Linha->516923996	Bernardo Dias Rego Ramalho	26-04-2000	0302FG Localidade não existentes->0302FG
+Error!Linha->424105059	Luis Mora Amado Andrade Brito	1979-05-15	100933 Data->Dia superior a 31
+Error!Linha->267677870	Odete Mateus Bogas Arantes Carvalheira	26-02-1954	0302FH Localidade não existentes->0302FH
+Error!Linha->101356475	Dulce Estrela Cunha Brito	10-04-1994	050613 Id->Não é divisivel por 10
+Error!Linha->550847984	Bruno Amorim Proenca Castanheira Seixas	17-04-1961	0302FF Localidade não existentes->0302FF
+Error!Linha->386529746	Bernardo Arantes Leal Brito	29-02-1958	050903 Data->Dia superior a 28(ano não bissexto)
+Error!Linha->571480898	Joana Tinoco Rosado Pinto Vivas	03-12-1951	13111 Localidade não existentes->13111
+Error!Linha->718859976	Lucas Carvalheira Pinto Belchior Almeida	09-07-1971	0302FE Localidade não existentes->0302FE
+Error!Linha->200518086	Joana Amado Amora Macedo	17-04-1999	0302FG Localidade não existentes->0302FG
+Error!Linha->40362393	Dolores Eanes Ferraz Antunes	28-02-1952	180804 Id->Não tem 9 digitos
+Error!Linha->167138248	Carmo Domingos Vivas Cipriano Silva	23/11/2001	141818 Data->Erro nas ////
+Error!Linha->676976685	Odete Dias Brito Cabral Barbosa	15-11-1962	0302FF Localidade não existentes->0302FF
+Error!Linha->545326618	Vitor Mota Brito Coelho	07-07-1950	0302FE Localidade não existentes->0302FE
+Error!Linha->204931399	Cristiano Quadros Carrico Aguiar Carvalheira	01-07-1991	0302FB Localidade não existentes->0302FB
+Error!Linha->349266785	Duarte Bogas Real Dinis Regueira	19-04-1969	0302FA Localidade não existentes->0302FA
+Error!Linha->465970883	Clotilde Eanes Soeiro Arouca	26-12-1991	081803 Localidade não existente->081803
+Error!Linha->639494843	Ana Carreira Real Amorim Baptista	26-02-1951	0302FF Localidade não existentes->0302FF
+Error!Linha->959078156	Carla Clementino Almeida Castanheira Ferreira	06-01-1987	0302FF Localidade não existentes->0302FF
+Error!Linha->336595568	Eduarda Regueira Ramalho Bogas	14-12-2001	0302FC Localidade não existentes->0302FC
+Error!Linha->041736423	Clarice Real Eanes Lopes Antunes	13-05-1995	0302FE Localidade não existentes->0302FE
+Error!Linha->210382545	Basilio Pinheiro Mota Azeredo	06-06-1969	0302FD Localidade não existentes->0302FD
+Error!Linha->707657530	Leonor Antunes Fonseca Leal Nogueira	24-03-1996	0302FB Localidade não existentes->0302FB
+Error!Linha->462278579	Bruna Dias Valbom Belchior Brito	04-set-1959	150506 Data->Erro nas ////
+Error!Linha->758077268	Bernardo Martins Antunes Nogueira	31-07-1996	0302FA Localidade não existentes->0302FA
+Error!Linha->309341442	Carlota Ferraz Macedo Bacelar Carvalheira	31-04-2001	031249 Data->Dia superior a 30
+Error!Linha->133818204	Odete Pinto Arouca Mateus Ferraz	21-07-1996	0302FE Localidade não existentes->0302FE
+Error!Linha->169906612	Dolores Matos Amado Almada	06-05-1998	0302FC Localidade não existentes->0302FC
+Error!Linha->194514691	Leonor Proenca Pacheco Barbosa Coelho	19-02-1970	0302FD Localidade não existentes->0302FD
+Error!Linha->671118394	Hugo Soeiro Pacheco Nascimento Lopes	19-02-1978	0302FA Localidade não existentes->0302FA
+Error!Linha->956810975	Maria Amorim Barbosa Pacheco Matos	10-05-1994	0302FH Localidade não existentes->0302FH
+Error!Linha->833172196	Leonor Soeiro Barros Amado	28-06-1969	0302FE Localidade não existentes->0302FE
+Error!Linha->516923996	Bernardo Dias Rego Ramalho	26-04-2000	0302FG Localidade não existentes->0302FG
+Error!Linha->424105059	Luis Mora Amado Andrade Brito	1979-05-15	100933 Data->Dia superior a 31
+Error!Linha->267677870	Odete Mateus Bogas Arantes Carvalheira	26-02-1954	0302FH Localidade não existentes->0302FH
+Error!Linha->101356475	Dulce Estrela Cunha Brito	10-04-1994	050613 Id->Não é divisivel por 10
+Error!Linha->550847984	Bruno Amorim Proenca Castanheira Seixas	17-04-1961	0302FF Localidade não existentes->0302FF
+Error!Linha->386529746	Bernardo Arantes Leal Brito	29-02-1958	050903 Data->Dia superior a 28(ano não bissexto)
+Error!Linha->571480898	Joana Tinoco Rosado Pinto Vivas	03-12-1951	13111 Localidade não existentes->13111
+Error!Linha->718859976	Lucas Carvalheira Pinto Belchior Almeida	09-07-1971	0302FE Localidade não existentes->0302FE
+Error!Linha->200518086	Joana Amado Amora Macedo	17-04-1999	0302FG Localidade não existentes->0302FG
+Error!Linha->40362393	Dolores Eanes Ferraz Antunes	28-02-1952	180804 Id->Não tem 9 digitos
+Error!Linha->167138248	Carmo Domingos Vivas Cipriano Silva	23/11/2001	141818 Data->Erro nas ////
+Error!Linha->676976685	Odete Dias Brito Cabral Barbosa	15-11-1962	0302FF Localidade não existentes->0302FF
+Error!Linha->545326618	Vitor Mota Brito Coelho	07-07-1950	0302FE Localidade não existentes->0302FE
+Error!Linha->204931399	Cristiano Quadros Carrico Aguiar Carvalheira	01-07-1991	0302FB Localidade não existentes->0302FB
+Error!Linha->349266785	Duarte Bogas Real Dinis Regueira	19-04-1969	0302FA Localidade não existentes->0302FA
+Error!Linha->465970883	Clotilde Eanes Soeiro Arouca	26-12-1991	081803 Localidade não existente->081803
+Error!Linha->639494843	Ana Carreira Real Amorim Baptista	26-02-1951	0302FF Localidade não existentes->0302FF
+Error!Linha->959078156	Carla Clementino Almeida Castanheira Ferreira	06-01-1987	0302FF Localidade não existentes->0302FF
+Error!Linha->336595568	Eduarda Regueira Ramalho Bogas	14-12-2001	0302FC Localidade não existentes->0302FC
+Error!Linha->041736423	Clarice Real Eanes Lopes Antunes	13-05-1995	0302FE Localidade não existentes->0302FE
+Error!Linha->210382545	Basilio Pinheiro Mota Azeredo	06-06-1969	0302FD Localidade não existentes->0302FD
+Error!Linha->707657530	Leonor Antunes Fonseca Leal Nogueira	24-03-1996	0302FB Localidade não existentes->0302FB
+Error!Linha->462278579	Bruna Dias Valbom Belchior Brito	04-set-1959	150506 Data->Erro nas ////
+Error!Linha->758077268	Bernardo Martins Antunes Nogueira	31-07-1996	0302FA Localidade não existentes->0302FA
+Error!Linha->309341442	Carlota Ferraz Macedo Bacelar Carvalheira	31-04-2001	031249 Data->Dia superior a 30
+Error!Linha->133818204	Odete Pinto Arouca Mateus Ferraz	21-07-1996	0302FE Localidade não existentes->0302FE
+Error!Linha->169906612	Dolores Matos Amado Almada	06-05-1998	0302FC Localidade não existentes->0302FC
+Error!Linha->194514691	Leonor Proenca Pacheco Barbosa Coelho	19-02-1970	0302FD Localidade não existentes->0302FD
+Error!Linha->671118394	Hugo Soeiro Pacheco Nascimento Lopes	19-02-1978	0302FA Localidade não existentes->0302FA
+Error!Linha->956810975	Maria Amorim Barbosa Pacheco Matos	10-05-1994	0302FH Localidade não existentes->0302FH
+Error!Linha->833172196	Leonor Soeiro Barros Amado	28-06-1969	0302FE Localidade não existentes->0302FE
+Error!Linha->516923996	Bernardo Dias Rego Ramalho	26-04-2000	0302FG Localidade não existentes->0302FG
+Error!Linha->424105059	Luis Mora Amado Andrade Brito	1979-05-15	100933 Data->Dia superior a 31
+Error!Linha->267677870	Odete Mateus Bogas Arantes Carvalheira	26-02-1954	0302FH Localidade não existentes->0302FH
+Error!Linha->101356475	Dulce Estrela Cunha Brito	10-04-1994	050613 Id->Não é divisivel por 10
+Error!Linha->550847984	Bruno Amorim Proenca Castanheira Seixas	17-04-1961	0302FF Localidade não existentes->0302FF
+Error!Linha->386529746	Bernardo Arantes Leal Brito	29-02-1958	050903 Data->Dia superior a 28(ano não bissexto)
+Error!Linha->571480898	Joana Tinoco Rosado Pinto Vivas	03-12-1951	13111 Localidade não existentes->13111
+Error!Linha->718859976	Lucas Carvalheira Pinto Belchior Almeida	09-07-1971	0302FE Localidade não existentes->0302FE
+Error!Linha->200518086	Joana Amado Amora Macedo	17-04-1999	0302FG Localidade não existentes->0302FG
+Error!Linha->40362393	Dolores Eanes Ferraz Antunes	28-02-1952	180804 Id->Não tem 9 digitos
+Error!Linha->167138248	Carmo Domingos Vivas Cipriano Silva	23/11/2001	141818 Data->Erro nas ////
+Error!Linha->676976685	Odete Dias Brito Cabral Barbosa	15-11-1962	0302FF Localidade não existentes->0302FF
+Error!Linha->545326618	Vitor Mota Brito Coelho	07-07-1950	0302FE Localidade não existentes->0302FE
+Error!Linha->204931399	Cristiano Quadros Carrico Aguiar Carvalheira	01-07-1991	0302FB Localidade não existentes->0302FB
+Error!Linha->349266785	Duarte Bogas Real Dinis Regueira	19-04-1969	0302FA Localidade não existentes->0302FA
+Error!Linha->465970883	Clotilde Eanes Soeiro Arouca	26-12-1991	081803 Localidade não existente->081803
+Error!Linha->639494843	Ana Carreira Real Amorim Baptista	26-02-1951	0302FF Localidade não existentes->0302FF
+Error!Linha->959078156	Carla Clementino Almeida Castanheira Ferreira	06-01-1987	0302FF Localidade não existentes->0302FF
+Error!Linha->336595568	Eduarda Regueira Ramalho Bogas	14-12-2001	0302FC Localidade não existentes->0302FC
+Error!Linha->041736423	Clarice Real Eanes Lopes Antunes	13-05-1995	0302FE Localidade não existentes->0302FE
+Error!Linha->210382545	Basilio Pinheiro Mota Azeredo	06-06-1969	0302FD Localidade não existentes->0302FD
+Error!Linha->707657530	Leonor Antunes Fonseca Leal Nogueira	24-03-1996	0302FB Localidade não existentes->0302FB
+Error!Linha->462278579	Bruna Dias Valbom Belchior Brito	04-set-1959	150506 Data->Erro nas ////
+Error!Linha->758077268	Bernardo Martins Antunes Nogueira	31-07-1996	0302FA Localidade não existentes->0302FA
+Error!Linha->309341442	Carlota Ferraz Macedo Bacelar Carvalheira	31-04-2001	031249 Data->Dia superior a 30
+Error!Linha->133818204	Odete Pinto Arouca Mateus Ferraz	21-07-1996	0302FE Localidade não existentes->0302FE
+Error!Linha->169906612	Dolores Matos Amado Almada	06-05-1998	0302FC Localidade não existentes->0302FC
+Error!Linha->194514691	Leonor Proenca Pacheco Barbosa Coelho	19-02-1970	0302FD Localidade não existentes->0302FD
+Error!Linha->671118394	Hugo Soeiro Pacheco Nascimento Lopes	19-02-1978	0302FA Localidade não existentes->0302FA
+Error!Linha->956810975	Maria Amorim Barbosa Pacheco Matos	10-05-1994	0302FH Localidade não existentes->0302FH
+Error!Linha->833172196	Leonor Soeiro Barros Amado	28-06-1969	0302FE Localidade não existentes->0302FE
+Error!Linha->516923996	Bernardo Dias Rego Ramalho	26-04-2000	0302FG Localidade não existentes->0302FG
+Error!Linha->424105059	Luis Mora Amado Andrade Brito	1979-05-15	100933 Data->Dia superior a 31
+Error!Linha->267677870	Odete Mateus Bogas Arantes Carvalheira	26-02-1954	0302FH Localidade não existentes->0302FH
+Error!Linha->101356475	Dulce Estrela Cunha Brito	10-04-1994	050613 Id->Não é divisivel por 10
+Error!Linha->550847984	Bruno Amorim Proenca Castanheira Seixas	17-04-1961	0302FF Localidade não existentes->0302FF
+Error!Linha->386529746	Bernardo Arantes Leal Brito	29-02-1958	050903 Data->Dia superior a 28(ano não bissexto)
+Error!Linha->571480898	Joana Tinoco Rosado Pinto Vivas	03-12-1951	13111 Localidade não existentes->13111
+Error!Linha->718859976	Lucas Carvalheira Pinto Belchior Almeida	09-07-1971	0302FE Localidade não existentes->0302FE
+Error!Linha->200518086	Joana Amado Amora Macedo	17-04-1999	0302FG Localidade não existentes->0302FG
+Error!Linha->40362393	Dolores Eanes Ferraz Antunes	28-02-1952	180804 Id->Não tem 9 digitos
+Error!Linha->167138248	Carmo Domingos Vivas Cipriano Silva	23/11/2001	141818 Data->Erro nas ////
+Error!Linha->676976685	Odete Dias Brito Cabral Barbosa	15-11-1962	0302FF Localidade não existentes->0302FF
+Error!Linha->545326618	Vitor Mota Brito Coelho	07-07-1950	0302FE Localidade não existentes->0302FE
+Error!Linha->204931399	Cristiano Quadros Carrico Aguiar Carvalheira	01-07-1991	0302FB Localidade não existentes->0302FB
+Error!Linha->349266785	Duarte Bogas Real Dinis Regueira	19-04-1969	0302FA Localidade não existentes->0302FA
+Error!Linha->465970883	Clotilde Eanes Soeiro Arouca	26-12-1991	081803 Localidade não existente->081803
+Error!Linha->639494843	Ana Carreira Real Amorim Baptista	26-02-1951	0302FF Localidade não existentes->0302FF
+Error!Linha->959078156	Carla Clementino Almeida Castanheira Ferreira	06-01-1987	0302FF Localidade não existentes->0302FF
+Error!Linha->336595568	Eduarda Regueira Ramalho Bogas	14-12-2001	0302FC Localidade não existentes->0302FC
+Error!Linha->041736423	Clarice Real Eanes Lopes Antunes	13-05-1995	0302FE Localidade não existentes->0302FE
+Error!Linha->210382545	Basilio Pinheiro Mota Azeredo	06-06-1969	0302FD Localidade não existentes->0302FD
+Error!Linha->707657530	Leonor Antunes Fonseca Leal Nogueira	24-03-1996	0302FB Localidade não existentes->0302FB
+Error!Linha->462278579	Bruna Dias Valbom Belchior Brito	04-set-1959	150506 Data->Erro nas ////
+Error!Linha->758077268	Bernardo Martins Antunes Nogueira	31-07-1996	0302FA Localidade não existentes->0302FA
+Error!Linha->309341442	Carlota Ferraz Macedo Bacelar Carvalheira	31-04-2001	031249 Data->Dia superior a 30
+Error!Linha->133818204	Odete Pinto Arouca Mateus Ferraz	21-07-1996	0302FE Localidade não existentes->0302FE
+Error!Linha->169906612	Dolores Matos Amado Almada	06-05-1998	0302FC Localidade não existentes->0302FC
+Error!Linha->194514691	Leonor Proenca Pacheco Barbosa Coelho	19-02-1970	0302FD Localidade não existentes->0302FD
+Error!Linha->671118394	Hugo Soeiro Pacheco Nascimento Lopes	19-02-1978	0302FA Localidade não existentes->0302FA
+Error!Linha->956810975	Maria Amorim Barbosa Pacheco Matos	10-05-1994	0302FH Localidade não existentes->0302FH
+Error!Linha->833172196	Leonor Soeiro Barros Amado	28-06-1969	0302FE Localidade não existentes->0302FE
+Error!Linha->516923996	Bernardo Dias Rego Ramalho	26-04-2000	0302FG Localidade não existentes->0302FG
+Error!Linha->424105059	Luis Mora Amado Andrade Brito	1979-05-15	100933 Data->Dia superior a 31
+Error!Linha->267677870	Odete Mateus Bogas Arantes Carvalheira	26-02-1954	0302FH Localidade não existentes->0302FH
+Error!Linha->101356475	Dulce Estrela Cunha Brito	10-04-1994	050613 Id->Não é divisivel por 10
+Error!Linha->550847984	Bruno Amorim Proenca Castanheira Seixas	17-04-1961	0302FF Localidade não existentes->0302FF
+Error!Linha->386529746	Bernardo Arantes Leal Brito	29-02-1958	050903 Data->Dia superior a 28(ano não bissexto)
+Error!Linha->571480898	Joana Tinoco Rosado Pinto Vivas	03-12-1951	13111 Localidade não existentes->13111
+Error!Linha->718859976	Lucas Carvalheira Pinto Belchior Almeida	09-07-1971	0302FE Localidade não existentes->0302FE
+Error!Linha->200518086	Joana Amado Amora Macedo	17-04-1999	0302FG Localidade não existentes->0302FG
+Error!Linha->40362393	Dolores Eanes Ferraz Antunes	28-02-1952	180804 Id->Não tem 9 digitos
+Error!Linha->167138248	Carmo Domingos Vivas Cipriano Silva	23/11/2001	141818 Data->Erro nas ////
+Error!Linha->676976685	Odete Dias Brito Cabral Barbosa	15-11-1962	0302FF Localidade não existentes->0302FF
+Error!Linha->545326618	Vitor Mota Brito Coelho	07-07-1950	0302FE Localidade não existentes->0302FE
+Error!Linha->204931399	Cristiano Quadros Carrico Aguiar Carvalheira	01-07-1991	0302FB Localidade não existentes->0302FB
+Error!Linha->349266785	Duarte Bogas Real Dinis Regueira	19-04-1969	0302FA Localidade não existentes->0302FA
+Error!Linha->465970883	Clotilde Eanes Soeiro Arouca	26-12-1991	081803 Localidade não existente->081803
+Error!Linha->639494843	Ana Carreira Real Amorim Baptista	26-02-1951	0302FF Localidade não existentes->0302FF
+Error!Linha->959078156	Carla Clementino Almeida Castanheira Ferreira	06-01-1987	0302FF Localidade não existentes->0302FF
+Error!Linha->336595568	Eduarda Regueira Ramalho Bogas	14-12-2001	0302FC Localidade não existentes->0302FC
+Error!Linha->041736423	Clarice Real Eanes Lopes Antunes	13-05-1995	0302FE Localidade não existentes->0302FE
+Error!Linha->210382545	Basilio Pinheiro Mota Azeredo	06-06-1969	0302FD Localidade não existentes->0302FD
+Error!Linha->707657530	Leonor Antunes Fonseca Leal Nogueira	24-03-1996	0302FB Localidade não existentes->0302FB
+Error!Linha->462278579	Bruna Dias Valbom Belchior Brito	04-set-1959	150506 Data->Erro nas ////
+Error!Linha->758077268	Bernardo Martins Antunes Nogueira	31-07-1996	0302FA Localidade não existentes->0302FA
+Error!Linha->309341442	Carlota Ferraz Macedo Bacelar Carvalheira	31-04-2001	031249 Data->Dia superior a 30
+Error!Linha->133818204	Odete Pinto Arouca Mateus Ferraz	21-07-1996	0302FE Localidade não existentes->0302FE
+Error!Linha->169906612	Dolores Matos Amado Almada	06-05-1998	0302FC Localidade não existentes->0302FC
+Error!Linha->194514691	Leonor Proenca Pacheco Barbosa Coelho	19-02-1970	0302FD Localidade não existentes->0302FD
+Error!Linha->671118394	Hugo Soeiro Pacheco Nascimento Lopes	19-02-1978	0302FA Localidade não existentes->0302FA
+Error!Linha->956810975	Maria Amorim Barbosa Pacheco Matos	10-05-1994	0302FH Localidade não existentes->0302FH
+Error!Linha->833172196	Leonor Soeiro Barros Amado	28-06-1969	0302FE Localidade não existentes->0302FE
+Error!Linha->516923996	Bernardo Dias Rego Ramalho	26-04-2000	0302FG Localidade não existentes->0302FG
+Error!Linha->424105059	Luis Mora Amado Andrade Brito	1979-05-15	100933 Data->Dia superior a 31
+Error!Linha->267677870	Odete Mateus Bogas Arantes Carvalheira	26-02-1954	0302FH Localidade não existentes->0302FH
+Error!Linha->101356475	Dulce Estrela Cunha Brito	10-04-1994	050613 Id->Não é divisivel por 10
+Error!Linha->550847984	Bruno Amorim Proenca Castanheira Seixas	17-04-1961	0302FF Localidade não existentes->0302FF
+Error!Linha->386529746	Bernardo Arantes Leal Brito	29-02-1958	050903 Data->Dia superior a 28(ano não bissexto)
+Error!Linha->571480898	Joana Tinoco Rosado Pinto Vivas	03-12-1951	13111 Localidade não existentes->13111
+Error!Linha->718859976	Lucas Carvalheira Pinto Belchior Almeida	09-07-1971	0302FE Localidade não existentes->0302FE
+Error!Linha->200518086	Joana Amado Amora Macedo	17-04-1999	0302FG Localidade não existentes->0302FG
+Error!Linha->40362393	Dolores Eanes Ferraz Antunes	28-02-1952	180804 Id->Não tem 9 digitos
+Error!Linha->167138248	Carmo Domingos Vivas Cipriano Silva	23/11/2001	141818 Data->Erro nas ////
+Error!Linha->676976685	Odete Dias Brito Cabral Barbosa	15-11-1962	0302FF Localidade não existentes->0302FF
+Error!Linha->545326618	Vitor Mota Brito Coelho	07-07-1950	0302FE Localidade não existentes->0302FE
+Error!Linha->204931399	Cristiano Quadros Carrico Aguiar Carvalheira	01-07-1991	0302FB Localidade não existentes->0302FB
+Error!Linha->349266785	Duarte Bogas Real Dinis Regueira	19-04-1969	0302FA Localidade não existentes->0302FA
+Error!Linha->465970883	Clotilde Eanes Soeiro Arouca	26-12-1991	081803 Localidade não existente->081803
+Error!Linha->639494843	Ana Carreira Real Amorim Baptista	26-02-1951	0302FF Localidade não existentes->0302FF
+Error!Linha->959078156	Carla Clementino Almeida Castanheira Ferreira	06-01-1987	0302FF Localidade não existentes->0302FF
+Error!Linha->336595568	Eduarda Regueira Ramalho Bogas	14-12-2001	0302FC Localidade não existentes->0302FC
+Error!Linha->041736423	Clarice Real Eanes Lopes Antunes	13-05-1995	0302FE Localidade não existentes->0302FE
+Error!Linha->210382545	Basilio Pinheiro Mota Azeredo	06-06-1969	0302FD Localidade não existentes->0302FD
+Error!Linha->707657530	Leonor Antunes Fonseca Leal Nogueira	24-03-1996	0302FB Localidade não existentes->0302FB
+Error!Linha->462278579	Bruna Dias Valbom Belchior Brito	04-set-1959	150506 Data->Erro nas ////
+Error!Linha->758077268	Bernardo Martins Antunes Nogueira	31-07-1996	0302FA Localidade não existentes->0302FA
+Error!Linha->309341442	Carlota Ferraz Macedo Bacelar Carvalheira	31-04-2001	031249 Data->Dia superior a 30
+Error!Linha->133818204	Odete Pinto Arouca Mateus Ferraz	21-07-1996	0302FE Localidade não existentes->0302FE
+Error!Linha->169906612	Dolores Matos Amado Almada	06-05-1998	0302FC Localidade não existentes->0302FC
+Error!Linha->194514691	Leonor Proenca Pacheco Barbosa Coelho	19-02-1970	0302FD Localidade não existentes->0302FD
+Error!Linha->671118394	Hugo Soeiro Pacheco Nascimento Lopes	19-02-1978	0302FA Localidade não existentes->0302FA
+Error!Linha->956810975	Maria Amorim Barbosa Pacheco Matos	10-05-1994	0302FH Localidade não existentes->0302FH
+Error!Linha->833172196	Leonor Soeiro Barros Amado	28-06-1969	0302FE Localidade não existentes->0302FE
+Error!Linha->516923996	Bernardo Dias Rego Ramalho	26-04-2000	0302FG Localidade não existentes->0302FG
+Error!Linha->424105059	Luis Mora Amado Andrade Brito	1979-05-15	100933 Data->Dia superior a 31
+Error!Linha->267677870	Odete Mateus Bogas Arantes Carvalheira	26-02-1954	0302FH Localidade não existentes->0302FH
+Error!Linha->101356475	Dulce Estrela Cunha Brito	10-04-1994	050613 Id->Não é divisivel por 10
+Error!Linha->550847984	Bruno Amorim Proenca Castanheira Seixas	17-04-1961	0302FF Localidade não existentes->0302FF
+Error!Linha->386529746	Bernardo Arantes Leal Brito	29-02-1958	050903 Data->Dia superior a 28(ano não bissexto)
+Error!Linha->571480898	Joana Tinoco Rosado Pinto Vivas	03-12-1951	13111 Localidade não existentes->13111
+Error!Linha->718859976	Lucas Carvalheira Pinto Belchior Almeida	09-07-1971	0302FE Localidade não existentes->0302FE
+Error!Linha->200518086	Joana Amado Amora Macedo	17-04-1999	0302FG Localidade não existentes->0302FG
+Error!Linha->40362393	Dolores Eanes Ferraz Antunes	28-02-1952	180804 Id->Não tem 9 digitos
+Error!Linha->167138248	Carmo Domingos Vivas Cipriano Silva	23/11/2001	141818 Data->Erro nas ////
+Error!Linha->676976685	Odete Dias Brito Cabral Barbosa	15-11-1962	0302FF Localidade não existentes->0302FF
+Error!Linha->545326618	Vitor Mota Brito Coelho	07-07-1950	0302FE Localidade não existentes->0302FE
+Error!Linha->204931399	Cristiano Quadros Carrico Aguiar Carvalheira	01-07-1991	0302FB Localidade não existentes->0302FB
+Error!Linha->349266785	Duarte Bogas Real Dinis Regueira	19-04-1969	0302FA Localidade não existentes->0302FA
+Error!Linha->465970883	Clotilde Eanes Soeiro Arouca	26-12-1991	081803 Localidade não existente->081803
+Error!Linha->639494843	Ana Carreira Real Amorim Baptista	26-02-1951	0302FF Localidade não existentes->0302FF
+Error!Linha->959078156	Carla Clementino Almeida Castanheira Ferreira	06-01-1987	0302FF Localidade não existentes->0302FF
+Error!Linha->336595568	Eduarda Regueira Ramalho Bogas	14-12-2001	0302FC Localidade não existentes->0302FC
+Error!Linha->041736423	Clarice Real Eanes Lopes Antunes	13-05-1995	0302FE Localidade não existentes->0302FE
+Error!Linha->210382545	Basilio Pinheiro Mota Azeredo	06-06-1969	0302FD Localidade não existentes->0302FD
+Error!Linha->707657530	Leonor Antunes Fonseca Leal Nogueira	24-03-1996	0302FB Localidade não existentes->0302FB
+Error!Linha->462278579	Bruna Dias Valbom Belchior Brito	04-set-1959	150506 Data->Erro nas ////
+Error!Linha->758077268	Bernardo Martins Antunes Nogueira	31-07-1996	0302FA Localidade não existentes->0302FA
+Error!Linha->309341442	Carlota Ferraz Macedo Bacelar Carvalheira	31-04-2001	031249 Data->Dia superior a 30
+Error!Linha->133818204	Odete Pinto Arouca Mateus Ferraz	21-07-1996	0302FE Localidade não existentes->0302FE
+Error!Linha->169906612	Dolores Matos Amado Almada	06-05-1998	0302FC Localidade não existentes->0302FC
+Error!Linha->194514691	Leonor Proenca Pacheco Barbosa Coelho	19-02-1970	0302FD Localidade não existentes->0302FD
+Error!Linha->671118394	Hugo Soeiro Pacheco Nascimento Lopes	19-02-1978	0302FA Localidade não existentes->0302FA
+Error!Linha->956810975	Maria Amorim Barbosa Pacheco Matos	10-05-1994	0302FH Localidade não existentes->0302FH
+Error!Linha->833172196	Leonor Soeiro Barros Amado	28-06-1969	0302FE Localidade não existentes->0302FE
+Error!Linha->516923996	Bernardo Dias Rego Ramalho	26-04-2000	0302FG Localidade não existentes->0302FG
+Error!Linha->424105059	Luis Mora Amado Andrade Brito	1979-05-15	100933 Data->Dia superior a 31
+Error!Linha->267677870	Odete Mateus Bogas Arantes Carvalheira	26-02-1954	0302FH Localidade não existentes->0302FH
+Error!Linha->101356475	Dulce Estrela Cunha Brito	10-04-1994	050613 Id->Não é divisivel por 10
+Error!Linha->550847984	Bruno Amorim Proenca Castanheira Seixas	17-04-1961	0302FF Localidade não existentes->0302FF
+Error!Linha->386529746	Bernardo Arantes Leal Brito	29-02-1958	050903 Data->Dia superior a 28(ano não bissexto)
+Error!Linha->571480898	Joana Tinoco Rosado Pinto Vivas	03-12-1951	13111 Localidade não existentes->13111
+Error!Linha->718859976	Lucas Carvalheira Pinto Belchior Almeida	09-07-1971	0302FE Localidade não existentes->0302FE
+Error!Linha->200518086	Joana Amado Amora Macedo	17-04-1999	0302FG Localidade não existentes->0302FG
+Error!Linha->40362393	Dolores Eanes Ferraz Antunes	28-02-1952	180804 Id->Não tem 9 digitos
+Error!Linha->167138248	Carmo Domingos Vivas Cipriano Silva	23/11/2001	141818 Data->Erro nas ////
+Error!Linha->676976685	Odete Dias Brito Cabral Barbosa	15-11-1962	0302FF Localidade não existentes->0302FF
+Error!Linha->545326618	Vitor Mota Brito Coelho	07-07-1950	0302FE Localidade não existentes->0302FE
+Error!Linha->204931399	Cristiano Quadros Carrico Aguiar Carvalheira	01-07-1991	0302FB Localidade não existentes->0302FB
+Error!Linha->349266785	Duarte Bogas Real Dinis Regueira	19-04-1969	0302FA Localidade não existentes->0302FA
+Error!Linha->465970883	Clotilde Eanes Soeiro Arouca	26-12-1991	081803 Localidade não existente->081803
+Error!Linha->639494843	Ana Carreira Real Amorim Baptista	26-02-1951	0302FF Localidade não existentes->0302FF
+Error!Linha->959078156	Carla Clementino Almeida Castanheira Ferreira	06-01-1987	0302FF Localidade não existentes->0302FF
+Error!Linha->336595568	Eduarda Regueira Ramalho Bogas	14-12-2001	0302FC Localidade não existentes->0302FC
+Error!Linha->041736423	Clarice Real Eanes Lopes Antunes	13-05-1995	0302FE Localidade não existentes->0302FE
+Error!Linha->210382545	Basilio Pinheiro Mota Azeredo	06-06-1969	0302FD Localidade não existentes->0302FD
+Error!Linha->707657530	Leonor Antunes Fonseca Leal Nogueira	24-03-1996	0302FB Localidade não existentes->0302FB
+Error!Linha->462278579	Bruna Dias Valbom Belchior Brito	04-set-1959	150506 Data->Erro nas ////
+Error!Linha->758077268	Bernardo Martins Antunes Nogueira	31-07-1996	0302FA Localidade não existentes->0302FA
+Error!Linha->309341442	Carlota Ferraz Macedo Bacelar Carvalheira	31-04-2001	031249 Data->Dia superior a 30
+Error!Linha->133818204	Odete Pinto Arouca Mateus Ferraz	21-07-1996	0302FE Localidade não existentes->0302FE
+Error!Linha->169906612	Dolores Matos Amado Almada	06-05-1998	0302FC Localidade não existentes->0302FC
+Error!Linha->194514691	Leonor Proenca Pacheco Barbosa Coelho	19-02-1970	0302FD Localidade não existentes->0302FD
+Error!Linha->671118394	Hugo Soeiro Pacheco Nascimento Lopes	19-02-1978	0302FA Localidade não existentes->0302FA
+Error!Linha->956810975	Maria Amorim Barbosa Pacheco Matos	10-05-1994	0302FH Localidade não existentes->0302FH
+Error!Linha->833172196	Leonor Soeiro Barros Amado	28-06-1969	0302FE Localidade não existentes->0302FE
+Error!Linha->516923996	Bernardo Dias Rego Ramalho	26-04-2000	0302FG Localidade não existentes->0302FG
+Error!Linha->424105059	Luis Mora Amado Andrade Brito	1979-05-15	100933 Data->Dia superior a 31
+Error!Linha->267677870	Odete Mateus Bogas Arantes Carvalheira	26-02-1954	0302FH Localidade não existentes->0302FH
+Error!Linha->101356475	Dulce Estrela Cunha Brito	10-04-1994	050613 Id->Não é divisivel por 10
+Error!Linha->550847984	Bruno Amorim Proenca Castanheira Seixas	17-04-1961	0302FF Localidade não existentes->0302FF
+Error!Linha->386529746	Bernardo Arantes Leal Brito	29-02-1958	050903 Data->Dia superior a 28(ano não bissexto)
+Error!Linha->571480898	Joana Tinoco Rosado Pinto Vivas	03-12-1951	13111 Localidade não existentes->13111
+Error!Linha->718859976	Lucas Carvalheira Pinto Belchior Almeida	09-07-1971	0302FE Localidade não existentes->0302FE
+Error!Linha->200518086	Joana Amado Amora Macedo	17-04-1999	0302FG Localidade não existentes->0302FG
+Error!Linha->40362393	Dolores Eanes Ferraz Antunes	28-02-1952	180804 Id->Não tem 9 digitos
+Error!Linha->167138248	Carmo Domingos Vivas Cipriano Silva	23/11/2001	141818 Data->Erro nas ////
+Error!Linha->676976685	Odete Dias Brito Cabral Barbosa	15-11-1962	0302FF Localidade não existentes->0302FF
+Error!Linha->545326618	Vitor Mota Brito Coelho	07-07-1950	0302FE Localidade não existentes->0302FE
+Error!Linha->204931399	Cristiano Quadros Carrico Aguiar Carvalheira	01-07-1991	0302FB Localidade não existentes->0302FB
+Error!Linha->349266785	Duarte Bogas Real Dinis Regueira	19-04-1969	0302FA Localidade não existentes->0302FA
+Error!Linha->465970883	Clotilde Eanes Soeiro Arouca	26-12-1991	081803 Localidade não existente->081803
+Error!Linha->639494843	Ana Carreira Real Amorim Baptista	26-02-1951	0302FF Localidade não existentes->0302FF
+Error!Linha->959078156	Carla Clementino Almeida Castanheira Ferreira	06-01-1987	0302FF Localidade não existentes->0302FF
+Error!Linha->336595568	Eduarda Regueira Ramalho Bogas	14-12-2001	0302FC Localidade não existentes->0302FC
+Error!Linha->041736423	Clarice Real Eanes Lopes Antunes	13-05-1995	0302FE Localidade não existentes->0302FE
+Error!Linha->210382545	Basilio Pinheiro Mota Azeredo	06-06-1969	0302FD Localidade não existentes->0302FD
+Error!Linha->707657530	Leonor Antunes Fonseca Leal Nogueira	24-03-1996	0302FB Localidade não existentes->0302FB
+Error!Linha->462278579	Bruna Dias Valbom Belchior Brito	04-set-1959	150506 Data->Erro nas ////
+Error!Linha->758077268	Bernardo Martins Antunes Nogueira	31-07-1996	0302FA Localidade não existentes->0302FA
+Error!Linha->309341442	Carlota Ferraz Macedo Bacelar Carvalheira	31-04-2001	031249 Data->Dia superior a 30
+Error!Linha->133818204	Odete Pinto Arouca Mateus Ferraz	21-07-1996	0302FE Localidade não existentes->0302FE
+Error!Linha->169906612	Dolores Matos Amado Almada	06-05-1998	0302FC Localidade não existentes->0302FC
+Error!Linha->194514691	Leonor Proenca Pacheco Barbosa Coelho	19-02-1970	0302FD Localidade não existentes->0302FD
+Error!Linha->671118394	Hugo Soeiro Pacheco Nascimento Lopes	19-02-1978	0302FA Localidade não existentes->0302FA
+Error!Linha->956810975	Maria Amorim Barbosa Pacheco Matos	10-05-1994	0302FH Localidade não existentes->0302FH
+Error!Linha->833172196	Leonor Soeiro Barros Amado	28-06-1969	0302FE Localidade não existentes->0302FE
+Error!Linha->516923996	Bernardo Dias Rego Ramalho	26-04-2000	0302FG Localidade não existentes->0302FG
+Error!Linha->424105059	Luis Mora Amado Andrade Brito	1979-05-15	100933 Data->Dia superior a 31
+Error!Linha->267677870	Odete Mateus Bogas Arantes Carvalheira	26-02-1954	0302FH Localidade não existentes->0302FH
+Error!Linha->101356475	Dulce Estrela Cunha Brito	10-04-1994	050613 Id->Não é divisivel por 10
+Error!Linha->550847984	Bruno Amorim Proenca Castanheira Seixas	17-04-1961	0302FF Localidade não existentes->0302FF
+Error!Linha->386529746	Bernardo Arantes Leal Brito	29-02-1958	050903 Data->Dia superior a 28(ano não bissexto)
+Error!Linha->571480898	Joana Tinoco Rosado Pinto Vivas	03-12-1951	13111 Localidade não existentes->13111
+Error!Linha->718859976	Lucas Carvalheira Pinto Belchior Almeida	09-07-1971	0302FE Localidade não existentes->0302FE
+Error!Linha->200518086	Joana Amado Amora Macedo	17-04-1999	0302FG Localidade não existentes->0302FG
+Error!Linha->40362393	Dolores Eanes Ferraz Antunes	28-02-1952	180804 Id->Não tem 9 digitos
+Error!Linha->167138248	Carmo Domingos Vivas Cipriano Silva	23/11/2001	141818 Data->Erro nas ////
+Error!Linha->676976685	Odete Dias Brito Cabral Barbosa	15-11-1962	0302FF Localidade não existentes->0302FF
+Error!Linha->545326618	Vitor Mota Brito Coelho	07-07-1950	0302FE Localidade não existentes->0302FE
+Error!Linha->204931399	Cristiano Quadros Carrico Aguiar Carvalheira	01-07-1991	0302FB Localidade não existentes->0302FB
+Error!Linha->349266785	Duarte Bogas Real Dinis Regueira	19-04-1969	0302FA Localidade não existentes->0302FA
+Error!Linha->465970883	Clotilde Eanes Soeiro Arouca	26-12-1991	081803 Localidade não existente->081803
+Error!Linha->639494843	Ana Carreira Real Amorim Baptista	26-02-1951	0302FF Localidade não existentes->0302FF
+Error!Linha->959078156	Carla Clementino Almeida Castanheira Ferreira	06-01-1987	0302FF Localidade não existentes->0302FF
+Error!Linha->336595568	Eduarda Regueira Ramalho Bogas	14-12-2001	0302FC Localidade não existentes->0302FC
+Error!Linha->041736423	Clarice Real Eanes Lopes Antunes	13-05-1995	0302FE Localidade não existentes->0302FE
+Error!Linha->210382545	Basilio Pinheiro Mota Azeredo	06-06-1969	0302FD Localidade não existentes->0302FD
+Error!Linha->707657530	Leonor Antunes Fonseca Leal Nogueira	24-03-1996	0302FB Localidade não existentes->0302FB
+Error!Linha->462278579	Bruna Dias Valbom Belchior Brito	04-set-1959	150506 Data->Erro nas ////
+Error!Linha->758077268	Bernardo Martins Antunes Nogueira	31-07-1996	0302FA Localidade não existentes->0302FA
+Error!Linha->309341442	Carlota Ferraz Macedo Bacelar Carvalheira	31-04-2001	031249 Data->Dia superior a 30
+Error!Linha->111111112	Simao Maravilha Duarte	5-10-1999	182415111111103	Carlos Vilhena	0-10-1999	182415 Localidade não existentes->182415111111103
+Error!Linha->133818204	Odete Pinto Arouca Mateus Ferraz	21-07-1996	0302FE Localidade não existentes->0302FE
+Error!Linha->169906612	Dolores Matos Amado Almada	06-05-1998	0302FC Localidade não existentes->0302FC
+Error!Linha->194514691	Leonor Proenca Pacheco Barbosa Coelho	19-02-1970	0302FD Localidade não existentes->0302FD
+Error!Linha->671118394	Hugo Soeiro Pacheco Nascimento Lopes	19-02-1978	0302FA Localidade não existentes->0302FA
+Error!Linha->956810975	Maria Amorim Barbosa Pacheco Matos	10-05-1994	0302FH Localidade não existentes->0302FH
+Error!Linha->833172196	Leonor Soeiro Barros Amado	28-06-1969	0302FE Localidade não existentes->0302FE
+Error!Linha->516923996	Bernardo Dias Rego Ramalho	26-04-2000	0302FG Localidade não existentes->0302FG
+Error!Linha->424105059	Luis Mora Amado Andrade Brito	1979-05-15	100933 Data->Dia superior a 31
+Error!Linha->267677870	Odete Mateus Bogas Arantes Carvalheira	26-02-1954	0302FH Localidade não existentes->0302FH
+Error!Linha->101356475	Dulce Estrela Cunha Brito	10-04-1994	050613 Id->Não é divisivel por 10
+Error!Linha->550847984	Bruno Amorim Proenca Castanheira Seixas	17-04-1961	0302FF Localidade não existentes->0302FF
+Error!Linha->386529746	Bernardo Arantes Leal Brito	29-02-1958	050903 Data->Dia superior a 28(ano não bissexto)
+Error!Linha->571480898	Joana Tinoco Rosado Pinto Vivas	03-12-1951	13111 Localidade não existentes->13111
+Error!Linha->718859976	Lucas Carvalheira Pinto Belchior Almeida	09-07-1971	0302FE Localidade não existentes->0302FE
+Error!Linha->200518086	Joana Amado Amora Macedo	17-04-1999	0302FG Localidade não existentes->0302FG
+Error!Linha->40362393	Dolores Eanes Ferraz Antunes	28-02-1952	180804 Id->Não tem 9 digitos
+Error!Linha->167138248	Carmo Domingos Vivas Cipriano Silva	23/11/2001	141818 Data->Erro nas ////
+Error!Linha->676976685	Odete Dias Brito Cabral Barbosa	15-11-1962	0302FF Localidade não existentes->0302FF
+Error!Linha->545326618	Vitor Mota Brito Coelho	07-07-1950	0302FE Localidade não existentes->0302FE
+Error!Linha->204931399	Cristiano Quadros Carrico Aguiar Carvalheira	01-07-1991	0302FB Localidade não existentes->0302FB
+Error!Linha->349266785	Duarte Bogas Real Dinis Regueira	19-04-1969	0302FA Localidade não existentes->0302FA
+Error!Linha->465970883	Clotilde Eanes Soeiro Arouca	26-12-1991	081803 Localidade não existente->081803
+Error!Linha->639494843	Ana Carreira Real Amorim Baptista	26-02-1951	0302FF Localidade não existentes->0302FF
+Error!Linha->959078156	Carla Clementino Almeida Castanheira Ferreira	06-01-1987	0302FF Localidade não existentes->0302FF
+Error!Linha->336595568	Eduarda Regueira Ramalho Bogas	14-12-2001	0302FC Localidade não existentes->0302FC
+Error!Linha->041736423	Clarice Real Eanes Lopes Antunes	13-05-1995	0302FE Localidade não existentes->0302FE
+Error!Linha->210382545	Basilio Pinheiro Mota Azeredo	06-06-1969	0302FD Localidade não existentes->0302FD
+Error!Linha->707657530	Leonor Antunes Fonseca Leal Nogueira	24-03-1996	0302FB Localidade não existentes->0302FB
+Error!Linha->462278579	Bruna Dias Valbom Belchior Brito	04-set-1959	150506 Data->Erro nas ////
+Error!Linha->758077268	Bernardo Martins Antunes Nogueira	31-07-1996	0302FA Localidade não existentes->0302FA
+Error!Linha->309341442	Carlota Ferraz Macedo Bacelar Carvalheira	31-04-2001	031249 Data->Dia superior a 30

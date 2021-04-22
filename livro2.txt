@@ -1,0 +1,15 @@
+8Data do pedido do prof	Dep.	Fornecedor	Admin.	Req.	Data do Admin.	Recepção da monografia na Biblioteca	Data de entrada do ficheiro de compras	Data de Carimbagem e Sensores	Modalidade de Aquisição (C/O)	Código de Barras	Título	Edição	Catalogação	Tipo de Material	Indexação	Cotação	Cota	Disponibilidade do documento	"
+TOTAL DE DIAS GASTOS"	Total de dias sem feriados e férias
+20/out/17	INF	MARKA	32	197,17	16/10/2018	13/12/2017	13/12/2017	10/01/2018	C	20180057	Seven databases in seven weeks		10/01/2018		10/01/2018	10/01/2018	004.65 RED	10/01/2018	21	7
+20/out/17	INF	MARKA	32	169,17	16/11/2018	13/12/2017	13/12/2017	11/01/2018	C	20180136	Mobile design pattern gallery	2ª ed	17/01/2018		17/01/2018	17/01/2018	004.5 NEI	17/01/2018	26	12
+20/out/17	INF	MARKA	32	204,17	16/11/2018	14/12/2017	14/12/2017	09/01/2018	C	20180053	ASP.NET core application development		10/01/2018		10/01/2018	10/01/2018	004.91 CHA	10/01/2018	20	6
+						19/12/2017	05/01/2018		C	20180132	Adobe Premiere Pro CC		17/01/2018	CD-ROM	17/01/2018	17/01/2018	823 CD	17/01/2018	22	9
+20/out/17	INF	Livraria José Alves	31	164,17	16/11/2018	15/12/2017	15/12/2017	12/01/2018	C	20180124	Não me faça pensar - atualizado		12/01/2018		12/01/2018	12/01/2018	004.5 KRU	12/01/2018	21	7
+--------------	--------	----------	----------	----------	-----------	22/01/2018	----------	22/01/2018	O	20180181	Unicer, uma longa história: Vol. 1		22/01/2018		22/01/2018	01/22//2018	908 PER	22/01/2018	1	
+----------	------	---------------	------	------------	-------------	---------	16/02/2018	16/02/2018	O	20181758	Entre o céu e o inferno		16/02/2018		16/02/2018	16/02/2018		16/02/2018	1
+20/out/17	INF	Livraria José Alves	31	133,17	16/11/2018	15/12/2017	15/12/2017	10/01/2018	C	20180054	Sistemas de retículas = Sistemas de grelhas	3ª ed	10/01/2018		10/01/2018	10/01/2018	74 MUL	10/01/2018	19
+2º SEMESTRE
+
+---	MEC	Simao Duarte	----	----	-----	--	05/10/1999	--	--	1234	REPARAR O CLI	----
+---	MEC	Simao Duarte	----	----	-----	--	05/10/1999	--	--	21341	Mecanico 2	----
+---	MEC	Jose Afonso	----	----	-----	--	10/10/1999	--	--	12341	Mec again	----
